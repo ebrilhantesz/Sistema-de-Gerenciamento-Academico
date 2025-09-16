@@ -1,10 +1,3 @@
-'''
-Aluno: Eduardo Henrique Brilhante
-Disciplina: Raciocínio Computacional
-Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
-RA: 1112025201951
-'''
-
 # Listas iniciais do sistema
 alunos = []
 disciplinas = []
