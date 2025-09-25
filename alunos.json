@@ -1,0 +1,22 @@
+[
+  {
+    "Código do Aluno": 1,
+    "Nome do Aluno": "Eduardo",
+    "CPF do Aluno": "123"
+  },
+  {
+    "Código do Aluno": 2,
+    "Nome do Aluno": "Bruno",
+    "CPF do Aluno": "456"
+  },
+  {
+    "Código do Aluno": 3,
+    "Nome do Aluno": "Gabi",
+    "CPF do Aluno": "098"
+  },
+  {
+    "Código do Aluno": 4,
+    "Nome do Aluno": "Bianca",
+    "CPF do Aluno": "987"
+  }
+]
